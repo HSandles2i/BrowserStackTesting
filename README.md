@@ -98,3 +98,7 @@ This repository uses the BrowserStack SDK to run tests on BrowserStack. Follow t
 
 ## Notes
 * You can view your test results on the [BrowserStack Automate dashboard](https://www.browserstack.com/automate)
+
+
+![image](https://github.com/user-attachments/assets/774927e1-4a67-455c-9a69-8d0a686778f7)
+
